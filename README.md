@@ -70,6 +70,7 @@ Aurora System
 I'm Elijah Sylar, bringing 7 years of behavioral analysis experience to AI development. 
 
 **Currently seeking remote Python/AI opportunities**
+elijah.s.camp@gmail.com
 
 ## 📄 License
 
