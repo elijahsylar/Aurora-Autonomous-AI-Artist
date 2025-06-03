@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+llama-cpp-python
+librosa
+pygame
+numpy
+pyaudio
+pillow
+opencv-python
+colorama
