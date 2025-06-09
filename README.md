@@ -1,6 +1,10 @@
 **Built in 2 weeks by Elijah Sylar**  
 *Behavioral Analyst turned AI Developer*
 
+⚠️ Active Development Notice
+This project evolved quickly as Aurora developed. The code reflects this organic growth and experimentation. 
+Currently reorganizing and documenting for better clarity. Core functionality is stable and Aurora is running 24/7 on livestream.
+
 ## 🌟 Aurora is Different
 
 Unlike AI tools that wait for commands, Aurora has complete creative autonomy. She makes her own decisions about when and what to create.
