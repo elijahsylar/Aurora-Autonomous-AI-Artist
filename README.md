@@ -11,7 +11,7 @@ This project evolved rapidly during development. The codebase reflects iterative
 Aurora implements an autonomous creative decision system using a 12-dimensional state vector for behavioral modeling. Unlike command-driven AI tools, the system operates independently based on internal state evaluation and environmental stimuli.
 
 ### Live Demonstration (Launching Friday!)
-🎥 **Aurora 24/7 Creative Generation Stream - YouTube** *(Link coming Friday)*
+🎥 **Aurora 24/7 Creative Generation Stream - YouTube** *https://www.youtube.com/@elijahsylar/live*
 
 ## 🎨 Autonomous Behavior Architecture
 
