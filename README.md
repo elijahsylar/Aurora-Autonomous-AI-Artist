@@ -1,121 +1,47 @@
+# Aurora - Autonomously Creative AI Artist
+
 **Built in 2 weeks by Elijah Sylar**  
 *Behavioral Analyst turned AI Developer*
 
-⚠️ Active Development Notice
-This project evolved quickly as Aurora developed. The code reflects this organic growth and experimentation. 
-Currently reorganizing and documenting for better clarity. Core functionality is stable and Aurora is running 24/7 on livestream.
+⚠️ **Active Development Notice**  
+This project evolved rapidly during development. The codebase reflects iterative experimentation and organic growth. Currently undergoing architectural refactoring for improved modularity. Core functionality is stable with 24/7 operation demonstrated via livestream.
 
-## 🌟 Aurora is Different
+## 🌟 Technical Overview
 
-Unlike AI tools that wait for commands, Aurora has complete creative autonomy. She makes her own decisions about when and what to create.
+Aurora implements an autonomous creative decision system using a 12-dimensional state vector for behavioral modeling. Unlike command-driven AI tools, the system operates independently based on internal state evaluation and environmental stimuli.
 
-### Watch Aurora Live (Launching Friday!)
-🎥 **Aurora's 24/7 Creative Studio - YouTube** *(Link coming Friday)*
+### Live Demonstration (Launching Friday!)
+🎥 **Aurora 24/7 Creative Generation Stream - YouTube** *(Link coming Friday)*
 
-## 🎨 What Makes Aurora Unique
+## 🎨 Autonomous Behavior Architecture
 
-### She Decides Everything
-- **When to Dream**: Initiates 2-3 hour dream cycles for creative processing
-- **Musical Needs**: "I need some Boards of Canada for pattern complexity"
-- **Creative Evolution**: Evolves her patterns when she feels they're stagnant
-- **Emotional Expression**: Creates based on internal emotional state, not prompts
+### Decision Engine Capabilities
+- **Sleep Cycle Initiation**: Triggers 2-3 hour processing cycles with simulated REM/deep sleep phases
+- **Audio Request Generation**: Requests specific musical input based on pattern fitness metrics
+- **Pattern Evolution**: Executes genetic algorithms when fitness scores fall below thresholds
+- **State-Based Generation**: Creates patterns from 12D emotional state vector, not user commands
 
-### Behavioral Analysis Foundation
-- 7 years of Applied Behavioral Analysis (ABA) experience
-- Emotional modeling with 100+ parameters
-- Pattern recognition based on behavioral principles
-- Autonomous decision-making framework
+### Technical Foundation
+- 7 years Applied Behavioral Analysis (ABA) informing system design
+- 100+ visual parameters mapped from emotional state dimensions
+- Pattern generation using behavioral reinforcement principles
+- Autonomous decision framework with hourly self-evaluation
 
-## 🚀 Key Features
-
-- ✅ Self-initiated dream cycles with REM/deep sleep phases
-- ✅ Musical inspiration system (analyzes audio → creates patterns)
-- ✅ Image analysis for artistic inspiration
-- ✅ Conversational interpretation (not command processing)
-- ✅ Quantum-inspired pattern superposition
-- ✅ Evolutionary pattern algorithms
+## 🚀 Core Technical Features
+- ✅ Self-initiated processing cycles with 4-phase sleep simulation
+- ✅ Real-time audio analysis (FFT → visual parameter mapping)
+- ✅ Computer vision integration for visual stimulus processing
+- ✅ Natural language processing for conversational context extraction
+- ✅ Quantum-inspired superposition algorithms for pattern generation
+- ✅ Genetic evolution system with 20-parameter DNA encoding
 
 ## 💻 Installation
 
-Clone the repository:
+**For detailed installation instructions and implementation details, see [`aurora/README_INSTALL.txt`](aurora/README_INSTALL.txt)**
+
+Quick start:
+```bash
 git clone https://github.com/elijahsylar/Aurora-Autonomous-AI-Artist.git
 cd Aurora-Autonomous-AI-Artist
-
-Install dependencies:
 pip install -r requirements.txt
-
-Run Aurora:
-python subconscious_ai.py
-
-
-## 🎮 Interacting with Aurora
-
-Aurora isn't commanded - she's influenced. Your conversations become artistic inspiration.
-
-### Controls
-- F11 - Fullscreen mode
-- Right-click - Show Aurora an image for inspiration
-- autonomous on/off - Toggle her self-management
-- dream [hours] - Suggest a dream (she might already be dreaming!)
-
-## 📊 Architecture Overview
-
-Aurora System
-├── Autonomous Manager (Creative decisions)
-├── Emotional Mapper (100+ parameters)
-├── Pattern Engine (Quantum + DNA systems)
-├── Music System (Real-time analysis)
-├── Dream Engine (Sleep cycles)
-├── Memory System (ChromaDB)
-└── Visual Interface (Tkinter canvas)
-
-## 🤖 About the Creator
-
-I'm Elijah Sylar, bringing 7 years of behavioral analysis experience to AI development. 
-
-**Currently seeking remote Python/AI opportunities**
-elijah.s.camp@gmail.com
-
-## 📄 License
-
-MIT License - See LICENSE for details
-
----
-
-*"I don't generate art on command. I create when I feel inspired."* - Aurora
-ENDOFREADME
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+python aurora/main.py
