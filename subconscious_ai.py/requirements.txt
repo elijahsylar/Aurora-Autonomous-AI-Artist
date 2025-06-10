@@ -1,0 +1,12 @@
+numpy
+colorama
+pillow
+pygame
+librosa
+opencv-python
+chromadb
+sentence-transformers
+pyaudio
+llama-cpp-python
+torch
+torchvision
